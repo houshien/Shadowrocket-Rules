@@ -1,1 +1,9 @@
-
+# name=翻咔App规则
+# Fanka App Rules
+DOMAIN-SUFFIX,fanka.com
+DOMAIN-SUFFIX,fanka.cn
+DOMAIN-SUFFIX,api.finka.cn
+DOMAIN-SUFFIX,pic1.finkapp.cn
+DOMAIN-SUFFIX,finka-h5.finka.cn
+DOMAIN-SUFFIX,finka-device.finka.cn
+DOMAIN-SUFFIX,finka.irisdt.cn
