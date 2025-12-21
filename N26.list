@@ -1,4 +1,6 @@
+# name=N26 Bank
+# N26 Bank Rules
 DOMAIN-SUFFIX,n26.com
 DOMAIN-SUFFIX,n26.de
-DOMAIN-SUFFIX,api.n26.com
-DOMAIN-SUFFIX,api.n26.de
+DOMAIN-SUFFIX,tech26.de
+DOMAIN-SUFFIX,
